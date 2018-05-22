@@ -1,7 +1,7 @@
 Answer 1-->
                  print('Hello Everyone')
 
-----------------------------------------
+---------------------------------------------
 Answer 2 -->
                 str1 = 'Acad'
                 str2 = 'View'
@@ -10,23 +10,23 @@ Answer 2 -->
                 str1 = "Acad"
                 str2 = "View"
                 print(str1+str2)
----------------------------------------
+--------------------------------------------
 
 Answer 3 -->
                 x = input('Enter First Number: ')
                 y = input('Enter Second Number: ')
                 z = input('Enter Third Number: ')
                 print('The value of x you have entered is:',x)
-----------------------------------------
+--------------------------------------------
 Answer 4 -->
                 print('Let's gets Started')
 
-------------------------------------------
+--------------------------------------------
 Answer 5 -->
                 s="Acadview"
                 course="python"
                 fees=5000
                 print('The value in s is ' ,s, '\nThe value in course is ',course,'\nThe value in fees is ',fees)
 
---------------------------------------------
+----------------------------------------------
 
